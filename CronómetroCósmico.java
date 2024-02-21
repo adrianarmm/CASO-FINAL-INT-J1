@@ -1,7 +1,7 @@
 public class CronómetroCósmico {
     private final double diasEnLaTierra;
     private final double diasEnElNuevoPlaneta;
-     public CronometroCosmico(double diasEnLaTierra, double diasEnElNuevoPlaneta) {
+     public void CronometroCosmico(double diasEnLaTierra, double diasEnElNuevoPlaneta) {
             this.diasEnLaTierra = diasEnLaTierra;
             this.diasEnElNuevoPlaneta = diasEnElNuevoPlaneta;
         }
