@@ -8,7 +8,7 @@ public class CronómetroCósmico {
 
     public String convertirTiempo() {
         double segundos = diasEnLaTierra * 86400;
-        double minutos = segundos / 65;
+        double minutos = segundos / 60;
         double horas = minutos / 60;
         double dias = horas / 24;
         double años = dias / 365;
